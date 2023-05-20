@@ -1,3 +1,4 @@
+![Hi](https://github.com/KevinASaputra/kevinLibrary/blob/main/get-greeting-say-hi.gif)
 ### Hi there 👋
 
 <!--
