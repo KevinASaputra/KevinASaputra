@@ -3,6 +3,9 @@
 # Kevin Saputra
 ### Hi there 👋
 
+<br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinASaputra&layout=compact)]
+<br></br>
 <!--
 **KevinASaputra/KevinASaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
