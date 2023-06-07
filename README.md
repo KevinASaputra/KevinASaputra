@@ -18,6 +18,7 @@ Hello World. i'm a kevin begginer software engineer with a background in Network
 <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinasaputra&layout=compact)](https://github.com/KevinASaputra)
 <br></br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinASaputra&show_icons=true&theme=radical)
 <!--
 **KevinASaputra/KevinASaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
