@@ -12,7 +12,7 @@ Hello World. i'm a kevin begginer software engineer with a background in Network
 
 [Instagram]: https://www.instagram.com/kvnn.exe/
 [Twitter]: https://twitter.com/sayakevin666
-[LinkedIn]: https://www.linkedin.com/in/kevin-adika-saputra-403389223/
+[LinkedIn]: https://www.linkedin.com/in/
 
 
 <br></br>
