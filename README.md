@@ -3,14 +3,23 @@
 # Kevin Saputra
 
 Hello World. i'm a kevin begginer software engineer with a background in Security Testinng and Programming.
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/KevinASaputra?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sayakevin666) -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/sayakevin666?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sayakevin666)
+[![Github Follow](https://img.shields.io/github/followers/KevinASaputra?color=1DA1F2&label=Github&logo=github&style=for-the-badge)](https://github.com/KevinASaputra)
 
-### Befriend Me
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sayakevin666)
-
-[<img align="left" alt="Twitter" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="LinkedIn" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="Instagram" width="27px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+### Connect with me
+<!-- [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only) -->
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/sayakevin666#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/sayakevin666#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/kvnn.exe#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/kvnn.exe#gh-dark-mode-only)
 
 [Instagram]: https://www.instagram.com/kvnn.exe/
 [Twitter]: https://twitter.com/sayakevin666
