@@ -2,7 +2,7 @@
 
 # Kevin Saputra
 
-Hello World. i'm a kevin begginer software engineer with a background in Networking, Security and Programming.
+Hello World. i'm a kevin begginer software engineer with a background in Security Testinng and Programming.
 
 ### Befriend Me
 
