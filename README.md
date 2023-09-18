@@ -1,10 +1,20 @@
-![Hi](https://github.com/KevinASaputra/kevinLibrary/blob/main/get-greeting-say-hi.gif)
+![Hi](https://github.com/KevinASaputra/KevinASaputra/blob/main/img/header_.png)
 
-# Kevin Saputra
+### Hi there, I'm Kevin Saputra
 
-```
+<!-- ```
 Hello World. i'm a kevin software engineer with a background in Security Testing and Programming.
-```
+``` -->
+<img align="right" src="./img/wave.gif" width='300"'>
+
+- 🔭 I’m currently working on **VS Code** 😁
+- 🌱 I’m currently learning everything 🤣
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- 💬 Ask me about anything, I am happy to help
+- 😄 Pronouns: **Coder** and **Kind Hearted**
+- :bulb:
+- 🥅 2023 Goals: FullStack Software Engineer
+- ⚡ Fun fact: I love to learn new things
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/KevinASaputra?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sayakevin666) -->
 
@@ -27,10 +37,11 @@ Hello World. i'm a kevin software engineer with a background in Security Testing
 [![website](./img/instagram-dark.svg)](https://instagram.com/kvnn.exe#gh-dark-mode-only)
 
 [Instagram]: https://www.instagram.com/kvnn.exe/
-[Twitter]: https://twitter.com/sayakevin666
+[Twitter]: https://twitter.com/
 [LinkedIn]: https://www.linkedin.com/in/
 
 <br></br>
+[![Github Stats](https://github-readme-stats.dipanjanpanja6.vercel.app/api?username=KevinASaputra&show_icons=true&hide_border=true&count_private=true&theme=dark&hide=issues)](https://github.com/KevinASaputra)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinASaputra&layout=compact)](https://github.com/KevinASaputra)
 <br></br>
 
