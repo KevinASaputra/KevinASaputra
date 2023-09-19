@@ -41,7 +41,7 @@ Hello World. i'm a kevin software engineer with a background in Security Testing
 [LinkedIn]: https://www.linkedin.com/in/
 
 <br></br>
-[![Github Stats](https://github-readme-stats.dipanjanpanja6.vercel.app/api?username=KevinASaputra&show_icons=true&hide_border=true&count_private=true&theme=dark&hide=issues)](https://github.com/KevinASaputra)
+<!-- [![Github Stats](https://github-readme-stats.dipanjanpanja6.vercel.app/api?username=KevinASaputra&show_icons=true&hide_border=true&count_private=true&theme=dark&hide=issues)](https://github.com/KevinASaputra) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinASaputra&layout=compact)](https://github.com/KevinASaputra)
 <br></br>
 
